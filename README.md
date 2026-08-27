@@ -41,7 +41,7 @@ Repository Grows
 
 This is the first piece: **Kubernetes Architecture**. It's the foundation every other topic here — networking, scaling, security, AKS — connects back to.
 
-![Kubernetes Architecture](./assets/kubernetes-architecture.svg)
+![Kubernetes Architecture](./kubernetes-architecture.svg)
 ---
 
 ## 📖 What Is Kubernetes?
